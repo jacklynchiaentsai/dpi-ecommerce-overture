@@ -1,7 +1,7 @@
 # Overture: Sustainable E-Commerce Aggregator🌿
 **Your Sustainable Fashion Navigator:** [Overture Web Application](https://overture-ecommerce.netlify.app)
 
-Team:  
+Team:
 - Project Managers: Angel He, Nisa Chowdhury
 - Front-End Engineer: Bill Sun
 - Back-End Engineer: Jacklyn Tsai
