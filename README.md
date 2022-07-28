@@ -6,10 +6,10 @@ Team:
 - Front-End Engineer: Bill Sun
 - Back-End Engineer: Jacklyn Tsai
 - Graphics Designer: Selina Wu
-
-Project Descriptions:
+    
+Technical Descriptions:
  - flask web app in backend: `cd backend; python ./server.py`
  - react frontend: `cd frontend; npm run start`
 
-Project Documents:
+Presentations:
  - [Project Proposal](https://docs.google.com/presentation/d/1c_FO-emRFFLfakk52iKZV8mgiS38W2KFtHvdmzyL9uA/edit?usp=sharing)
