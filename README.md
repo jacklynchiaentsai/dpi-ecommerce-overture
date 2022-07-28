@@ -13,3 +13,4 @@
 
 #### Presentations:
  - [Project Proposal](https://docs.google.com/presentation/d/1c_FO-emRFFLfakk52iKZV8mgiS38W2KFtHvdmzyL9uA/edit?usp=sharing)
+ - [Columbia Data Product Initiative Final Expo](https://docs.google.com/presentation/d/1c_FO-emRFFLfakk52iKZV8mgiS38W2KFtHvdmzyL9uA/edit?usp=sharing)
