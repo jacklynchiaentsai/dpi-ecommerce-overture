@@ -1,2 +1,2 @@
-# ecommerce-overture
-e-commerce aggregator for sustainable fashion brands
+flask web app in backend: cd backend; python ./server.py
+react frontend: cd frontend; npm run start
