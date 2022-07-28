@@ -1,5 +1,5 @@
 # Overture: Sustainable E-Commerce Aggregator🌿
-## Your Sustainable Fashion Navigator: [Overture Web Application](https://overture-ecommerce.netlify.app)
+**Your Sustainable Fashion Navigator:** [Overture Web Application](https://overture-ecommerce.netlify.app)
 
 Project Descriptions:
  - flask web app in backend: `cd backend; python ./server.py`
